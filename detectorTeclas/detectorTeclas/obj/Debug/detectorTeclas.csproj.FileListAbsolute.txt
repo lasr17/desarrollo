@@ -1,0 +1,20 @@
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\bin\Debug\detectorTeclas.exe.config
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\bin\Debug\detectorTeclas.exe
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\bin\Debug\detectorTeclas.pdb
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.Form1.resources
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.Properties.Resources.resources
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.csproj.GenerateResource.Cache
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.exe
+C:\Users\Alfonso\AppData\Local\Temporary Projects\detectorTeclas\obj\Debug\detectorTeclas.pdb
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\bin\Debug\detectorTeclas.exe.config
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\bin\Debug\detectorTeclas.exe
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\bin\Debug\detectorTeclas.pdb
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.csprojResolveAssemblyReference.cache
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.Form1.resources
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.Properties.Resources.resources
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.csproj.GenerateResource.Cache
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.csproj.CoreCompileInputs.cache
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.exe
+C:\Users\Alfonso\source\repos\detectorTeclas\detectorTeclas\obj\Debug\detectorTeclas.pdb
