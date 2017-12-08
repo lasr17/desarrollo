@@ -5,7 +5,7 @@
         Dim watch As Stopwatch
         Dim archivo As String = PorNoEncontrar
         Dim Existe As Boolean = False
-        If tipo = "Archivo" Then
+        If tipo = cs"Archivo" Then
             watch = Stopwatch.StartNew()
             While FileIO.FileSystem.FileExists(archivo) And watch.Elapsed.TotalMilliseconds / 1000 < segundos
                 Thread.Sleep(paso * 1000)
